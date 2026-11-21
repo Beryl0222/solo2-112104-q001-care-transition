@@ -1,0 +1,26 @@
+[
+  {
+    "id": "care-a1",
+    "kind": "discharge",
+    "version": 1,
+    "text": "林宁出院后按原安排早晚测量血压，三日后复诊。"
+  },
+  {
+    "id": "care-a2",
+    "kind": "family_note",
+    "version": 1,
+    "text": "家属说患者昨晚头晕，今早测量后已告知护士。"
+  },
+  {
+    "id": "care-a3",
+    "kind": "discharge_correction",
+    "version": 2,
+    "text": "更正：复诊时间改为两日后；测量安排未作调整。"
+  },
+  {
+    "id": "care-a4",
+    "kind": "handoff",
+    "version": 1,
+    "text": "门诊团队收到复诊预约，但尚未确认家属报告是否已进入护理记录。"
+  }
+]
